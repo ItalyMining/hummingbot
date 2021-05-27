@@ -71,7 +71,7 @@ from hummingbot.core.data_type.trade import Trade
 s_logger = None
 s_decimal_0 = Decimal(0)
 s_decimal_NaN = Decimal("nan")
-BROKER_ID = "x-XEKWYICX"
+BROKER_ID = "x-RUCW3Y2B"
 
 
 cdef str get_client_order_id(str order_side, object trading_pair):
